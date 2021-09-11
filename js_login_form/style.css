@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    font-family: 'Poppins';
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #373737;
+}
+
+h3 {
+    position: relative;
+    color : #f9f9f9;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+#form {
+    position: relative;
+}
+
+#form #email {
+    width: 210px;
+    background-color: #292929;
+    outline: none;
+    border: none;
+    padding: 10px;
+    border-radius: 6px;
+    font-style: 18px;
+    color: #fff;
+}
+
+#from #inputbox{
+    position: relative;
+}
+
+
+#text{
+    display: block;
+    color: #000;
+    font-weight: 300;
+    font-style: italic;
+    padding: 5px;
+}
+
+#icon {
+    padding-left: 6px;
+    padding-right: 8px;
+    padding-bottom: 9.99px;
+    padding-top: 8px;
+    background-color: #292929;
+    border-radius: 6px;
+    font-style: 18px;
+    position: relative;
+    left: -14px;
+    top: 0.01px;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-transition: background-color 9999s ease-out;
+    -webkit-box-shadow: 0 0 0 30px #292929 inset !important;
+    -webkit-text-fill-color : white !important;
+    outline: none;
+    border: none;
+
+}
+
+/*
+input:-internal-autofill-selected
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=naan_ace&logNo=221298520291
+https://www.python2.net/questions-1052676.html
+https://close-up.tistory.com/entry/input-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1-css-%EC%88%98%EC%A0%95
+*/
