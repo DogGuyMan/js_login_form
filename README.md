@@ -1,5 +1,5 @@
 # js_login_form
-## [Email Validation Check Using Vanilla Javascript | How To Check Email Valid or Not](https://www.youtube.com/watch?v=HzJngc-Se9Q&list=PL5e68lK9hEzd6RUzREoABqimRI4SY63ND)https://github.com/DogGuyMan/js_login_form
+## [Email Validation Check Using Vanilla Javascript | How To Check Email Valid or Not](https://www.youtube.com/watch?v=HzJngc-Se9Q&list=PL5e68lK9hEzd6RUzREoABqimRI4SY63ND)
 ```
 input:-internal-autofill-selected
 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=naan_ace&logNo=221298520291
